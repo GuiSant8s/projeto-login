@@ -37,7 +37,6 @@ Grandes telas: acima de 1200px
         font-size: 1em;
     }
 }
-}
 
 @media screen and (min-width: 992px) {
     body {
